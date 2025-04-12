@@ -17,3 +17,5 @@ If you have any issue regarding any of the tutorials or need some extra help, [j
 [wascertified](https://codeberg.org/wascertified/custom-cogs) for creating the `/leaderboard` command.
 
 [porcelainscars](https://github.com/porcelainscars) for creating a way to add custom spawn messages in the Ballsdex engine.
+
+[El Laggron](https://github.com/laggron42) for creating Ballsdex and the Ballsdex wiki which inspired me to make this repo and helped me format the pages properly.
