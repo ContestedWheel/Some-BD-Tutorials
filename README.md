@@ -13,3 +13,5 @@ If you have any issue regarding any of the tutorials or need some extra help, [j
 [Nixter](https://github.com/itsjruntime/) for creating the `/inspect` and `/rarity` commands.
 
 [wascertified](https://codeberg.org/wascertified/custom-cogs) for creating the `/leaderboard` command.
+
+[porcelainscars](https://github.com/porcelainscars) for creating a way to add custom spawn messages in the Ballsdex engine.
