@@ -2,7 +2,7 @@
 [![Discord server](https://img.shields.io/badge/OreoDex-Server-5865F2?logo=discord)](https://discord.gg/F3eGhQXara)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 
-This is a repo for tutorials that I make for Balldex. Example files and visuals will be included in these tutorials.
+This is a repo for tutorials that I make for Balldex. Examples and visuals will be included in these tutorials.
 
 ## Discord server
 
