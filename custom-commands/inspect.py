@@ -20,7 +20,10 @@
                 f"**⋄ Short Name:** {ball.short_name}\n"
                 f"**⋄ Catch Names:** {''.join(ball.catch_names)}\n"
                 f"**⋄ Rarity:** {ball.rarity}\n"
-                f"**⋄ Description:** {ball.capacity_description}\n"
+                f"**⋄ HP:** {ball.health}\n"
+                f"**⋄ ATK:** {ball.attack}\n"
+                f"**⋄ Capacity Name:** {ball.capacity_name}\n"
+                f"**⋄ Capacity Description:** {ball.capacity_description}\n"
                 f"**⋄ Credits:** {ball.credits}\n"
             ),
             color=discord.Colour.blurple()
