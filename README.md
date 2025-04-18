@@ -2,8 +2,6 @@
 [![Discord server](https://img.shields.io/badge/OreoDex-Server-5865F2?logo=discord)](https://discord.gg/F3eGhQXara)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 
-# DISCLAIMER: BIG WORK IN PROGRESS!!!
-
 This is a repo for tutorials that I make for Balldex. Examples and visuals will be included in these tutorials.
 
 To go to the tutorials, click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki)
