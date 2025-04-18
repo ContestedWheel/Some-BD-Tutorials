@@ -1,5 +1,5 @@
 # Some Ballsdex Tutorials
-[![Discord server](https://img.shields.io/badge/Support-Server-5865F2?logo=discord)](https://discord.gg/PKKhee4fvy)
+[![Discord server](https://img.shields.io/badge/support-server-5865F2?logo=discord)](https://discord.gg/PKKhee4fvy)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 
 This is a repo for tutorials that I make for Balldex. Examples and visuals will be included in these tutorials.
