@@ -6,7 +6,7 @@ This is a repo for tutorials that I make for Balldex. Examples and visuals will 
 
 **Looking for my custom command and eval tutorials? I have moved them [here](https://github.com/ContestedWheel/EvalEvalEval-BD) so that it's easier to manage.**
 
-To go to the tutorials, click "Wiki" or [click this blue text.](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki)
+To go to the tutorials, click "Wiki" or [here.](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki)
 
 ## Discord server
 
