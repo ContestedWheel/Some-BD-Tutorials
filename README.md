@@ -15,7 +15,6 @@ If you have any issue regarding any of the tutorials or need some extra help, [j
 It is allowed to put your issue in the [#help](https://discord.com/channels/1255250024741212262/1255256375408332860) channel if you need help for the following topics:
 - [Installing Ballsdex using Docker](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki/Installing-Ballsdex-using-Docker)
 - [Changing localhost port](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki/Changing-localhost-port)
-- [How to run eval commands on versions 2.25 and above](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki/How-to-run-eval-commands-on-versions-2.25-and-above)
 - [Solutions to common config errors](https://github.com/ContestedWheel/Some-BD-Tutorials/wiki/Solutions-to-common-config-errors)
 
 ## Credits
